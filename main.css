@@ -166,7 +166,7 @@
 
 			#header > header p {
 				font-size: 120%;
-				color: #f5faf9;
+				color: #d1f1e9;
 				font-style: italic;
 				margin: 0% 0 30% 0;
 			}
@@ -185,7 +185,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #81D8D1;
+					border-top: solid 2px #5ccfb0;
 					display: block;
 					padding: 0;
 				}
@@ -204,8 +204,8 @@
 					}
 
 						#header > nav ul li a.active {
-							background: #81D8D1;
-							color: ##81D8D1 !important;
+							background: #fff;
+							color: #81D8D1 !important;
 						}
 
 					#header > nav ul li:first-child {
